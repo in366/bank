@@ -1,0 +1,4 @@
+flask
+gunicorn
+textblob
+google-generativeai
